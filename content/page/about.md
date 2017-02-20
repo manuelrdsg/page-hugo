@@ -1,13 +1,5 @@
 ---
-title: "New Page"
-categories:
-- category
-- subcategory
-tags:
-- tag1
-- tag2
-keywords:
-- tech
+title: "About me"
 comments:       false
 showDate:       false
 showSocial:     false
