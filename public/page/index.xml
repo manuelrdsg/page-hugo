@@ -11,27 +11,12 @@
     
     
     <item>
-      <title>About</title>
+      <title>About me</title>
       <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/page/about/</guid>
-      <description>I am Manuel, student at University of Cádiz.
-Current Work I am currently working as an intern on a software project at University of Cádiz. This project is called &amp;ldquo;GuessIt!&amp;rdquo; and is an application for mobile platforms, mainly Android.
-Tha aim of the project is achieve an app wich an student would use to learn languages like English or German.
-GitHub Repository
-Mail manuelrdsg@gmail.com</description>
-    </item>
-    
-    <item>
-      <title>Personal Projects</title>
-      <link>/page/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/page/projects/</guid>
-      <description>TextAdventures Developed by me and three friends (Luis Gonzaga Rozo Bueno, Juan Antonio Rodicio Lopez and Antonio Velez Estevez).
-This was our first game, we wanted to made a text-based game strongly inspired by other similar games such as Zork. So we chose Java as our language and we focused on the design, usign Design Patterns.
-If You want to know more about it, you could check out the wiki.</description>
+      <description></description>
     </item>
     
   </channel>
