@@ -114,6 +114,36 @@
       
   <li class="sidebar-button">
     
+      <a class="sidebar-button-link " href="/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/page/about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rocket"></i>
+      
+      <span class="sidebar-button-desc">About &amp; Contact</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="/page/projects">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-files-o"></i>
+      
+      <span class="sidebar-button-desc">Projects</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
       <a class="sidebar-button-link " href="/categories">
     
       <i class="sidebar-button-icon fa fa-lg fa-bookmark"></i>
@@ -129,26 +159,6 @@
       <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
       
       <span class="sidebar-button-desc">Tags</span>
-    </a>
-  </li>
-
-  <li class="sidebar-button">
-    
-      <a class="sidebar-button-link " href="/page/about">
-    
-      <i class="sidebar-button-icon fa fa-lg fa-question"></i>
-      
-      <span class="sidebar-button-desc">About</span>
-    </a>
-  </li>
-
-  <li class="sidebar-button">
-    
-      <a class="sidebar-button-link " href="/">
-    
-      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
-      
-      <span class="sidebar-button-desc">Home</span>
     </a>
   </li>
 
@@ -293,7 +303,7 @@ Pues por tres simples razones:</p>
       
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--disabled">
+            <a class="post-action-btn btn btn--default tooltip--top" href="/2017/03/conducen-por-la-izquierda---la-plaza/" data-tooltip="¡Conducen por la izquierda! - La Plaza">
           
             <i class="fa fa-angle-left"></i>
             <span class="hide-xs hide-sm text-small icon-ml"></span>
@@ -301,7 +311,7 @@ Pues por tres simples razones:</p>
         </li>
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="/page/about/" data-tooltip="About me">
+            <a class="post-action-btn btn btn--default tooltip--top" href="/page/about/" data-tooltip="About">
           
             <span class="hide-xs hide-sm text-small icon-mr"></span>
             <i class="fa fa-angle-right"></i>
@@ -374,7 +384,7 @@ Pues por tres simples razones:</p>
       
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--disabled">
+            <a class="post-action-btn btn btn--default tooltip--top" href="/2017/03/conducen-por-la-izquierda---la-plaza/" data-tooltip="¡Conducen por la izquierda! - La Plaza">
           
             <i class="fa fa-angle-left"></i>
             <span class="hide-xs hide-sm text-small icon-ml"></span>
@@ -382,7 +392,7 @@ Pues por tres simples razones:</p>
         </li>
         <li class="post-action">
           
-            <a class="post-action-btn btn btn--default tooltip--top" href="/page/about/" data-tooltip="About me">
+            <a class="post-action-btn btn btn--default tooltip--top" href="/page/about/" data-tooltip="About">
           
             <span class="hide-xs hide-sm text-small icon-mr"></span>
             <i class="fa fa-angle-right"></i>
@@ -500,6 +510,25 @@ Pues por tres simples razones:</p>
           <div class="media">
             
             <div class="media-body">
+              <a class="link-unstyled" href="/2017/03/conducen-por-la-izquierda---la-plaza/">
+                <h3 class="media-heading">¡Conducen por la izquierda! - La Plaza</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Mar 3, 2017
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">¡Hola a todos!
+Hace no mucho me han confirmado que el año que viene (si todo va bien) estaré en Londres, cursando mi último año de carrera. Se me ha ocurrido que puede ser interesante relataros la aventura a lo largo de una serie de posts y de este modo, poder hacer retrospectiva cuando mi tiempo en Londres haya llegado a su fin.
+“¿Estarás contento, no? “ Tras comunicar la noticia alguien me hizo la misma pregunta que reza en el título de la sección y me dejó bastante pensativo.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
               <a class="link-unstyled" href="/2015/05/yo-he-venido-aqu%C3%AD-a-hablar-de-mi-libro/">
                 <h3 class="media-heading">Yo he venido aquí a hablar de mi libro</h3>
               </a>
@@ -523,7 +552,7 @@ Pues por tres simples razones:</p>
               </a>
               <span class="media-meta">
                 <span class="media-date text-small">
-                  May 5, 2015
+                  Mar 3, 2017
                 </span>
               </span>
               <div class="media-content hide-xs font-merryweather"></div>
@@ -539,7 +568,7 @@ Pues por tres simples razones:</p>
          data-message-zero=""
          data-message-one=""
          data-message-other="">
-         2 posts found
+         3 posts found
       </p>
     </div>
   </div>
@@ -547,7 +576,7 @@ Pues por tres simples razones:</p>
     
   
     
-    <div id="cover" style="background-image:url('/images/cover2.jpg');"></div>
+    <div id="cover" style="background-image:url('/images/cover-v1.2.0.jpg');"></div>
   
 
 
@@ -595,7 +624,7 @@ $(document).ready(function() {
             return;
           }
           var d = document, s = d.createElement('script');
-          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          var disqus_shortname = 'manuelrdsg-blog';
           s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
 
           s.setAttribute('data-timestamp', +new Date());
