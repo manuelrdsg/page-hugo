@@ -10,15 +10,21 @@ thumbnailImage: //example.com/image.jpg
 
 {{< image classes="right fig-25" thumbnail="http://res.cloudinary.com/manuelrdsg/image/upload/v1496771811/perfil_recortada_aeqddc.png" >}}
 
-I am Manuel, student at University of Cádiz.
+Hi! I am Manuel, student at Kingston University.
 
-## Current Work
+- [***CV***](https://drive.google.com/file/d/1vX0jwiLWOAEwqP611pu5plxn0kUdY1Mz/view?usp=sharing)
 
-I am currently working as an intern on a software project at University of Cádiz. This project is called **“GuessIt!”** and is an application for mobile platforms, mainly Android.
+## Work
 
-The aim of the project is achieve an app witch an student would use to learn languages like English or German.
+Currently I'm finishing my degree in Computer Science at Kinston University. Focusing on Software Engineering and Web Development.
 
-**[GitHub Repository](https://github.com/manuelrdsg/GuessItLanguageTrainer)**
+## Past Work
+
+I worked as an intern on a software project at University of Cádiz. That project is called **“GuessIt!”** and is an application for mobile platforms, mainly Android.
+
+The aim of the project is achieve an app which an student would use to learn languages like English or German.
+
+If you want more information about the application please check our **[GitHub Repository](https://github.com/manuelrdsg/GuessItLanguageTrainer)**
 
 ## Mail
 
