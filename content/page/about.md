@@ -8,7 +8,7 @@ showPagination: false
 thumbnailImage: //example.com/image.jpg
 ---
 
-{{< image classes="right fig-25" thumbnail="http://res.cloudinary.com/manuelrdsg/image/upload/v1496771811/perfil_recortada_aeqddc.png" >}}
+{{< image classes="right fig-25" thumbnail="http://res.cloudinary.com/manuelrdsg/image/upload/v1496771811/About/perfil_recortada_aeqddc.png" >}}
 
 Hi! I am Manuel, student at Kingston University.
 
