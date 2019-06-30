@@ -32,9 +32,9 @@ canonifyurls = false
 
 [author]
   name = "Manuel Rodríguez-Sánchez"
-  bio = "Software Engineer in progress. Currently studying at Kingston University."
-  job = ""
-  location = "UK, London"
+  bio = "Previously in London. Now in Madrid working at Intelygenz Software"
+  job = "Full Stack Developer @Intelygenz"
+  location = "Madrid, Spain"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "manuelrdsg@gmail.com"
   # Your profile picture
@@ -95,7 +95,7 @@ canonifyurls = false
   identifier = "linkedin"
   name = "LinkedIn"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
-  url = "https://www.linkedin.com/in/manuelrdsg"
+  url = "https://es.linkedin.com/in/manuelrdsg/en"
 
 
 [[menu.misc]]
@@ -147,8 +147,11 @@ canonifyurls = false
   # and use relative url : `your-image.png` 
   # coverImage = "cover-v1.2.0.jpg"
   # coverImage = "https://res.cloudinary.com/manuelrdsg/image/upload/v1512327199/Fondos/fondo_playa_1.jpg"
-  coverImage = "https://res.cloudinary.com/manuelrdsg/image/upload/v1512327403/Fondos/Fondo_Playa_2.jpg"
-
+   coverImage = "https://res.cloudinary.com/manuelrdsg/image/upload/v1512327403/Fondos/Fondo_Playa_2.jpg"
+  # coverImage = "http://res.cloudinary.com/manuelrdsg/image/upload/ar_16:9,c_fill,e_sharpen,g_auto/v1529345551/Fondos/fondo_3.jpg"
+  # coverImage = "http://res.cloudinary.com/manuelrdsg/image/upload/ar_16:9,c_fill,e_sharpen,g_auto/v1529428490/Fondos/fondo_5.jpg"
+  # coverImage = "http://res.cloudinary.com/manuelrdsg/image/upload/ar_16:9,c_fill,e_sharpen,g_auto/v1529428813/Fondos/fondo_4.jpg"
+  
   # Favicon displayed on the browser tab.
   favicon = "favicon.ico"
 
